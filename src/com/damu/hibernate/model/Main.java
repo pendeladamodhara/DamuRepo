@@ -17,7 +17,8 @@ public class Main {
         session.clear();
         try
         {
-        	Thread.sleep(10000);
+        	Thread.sleep(10000); 
+                 System.out.println("");
         }
         catch(Exception e)
         {
